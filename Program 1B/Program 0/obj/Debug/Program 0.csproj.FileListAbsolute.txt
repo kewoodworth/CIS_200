@@ -1,0 +1,21 @@
+J:/CIS 200/Program 0/Program 0/obj/Debug/Program 0.csprojAssemblyReference.cache
+J:/CIS 200/Program 0/Program 0/obj/Debug/Program 0.csproj.CoreCompileInputs.cache
+J:/CIS 200/Program 0/Program 0/bin/Debug/Program 0.exe.config
+J:/CIS 200/Program 0/Program 0/bin/Debug/Program 0.exe
+J:/CIS 200/Program 0/Program 0/bin/Debug/Program 0.pdb
+J:/CIS 200/Program 0/Program 0/obj/Debug/Program 0.exe
+J:/CIS 200/Program 0/Program 0/obj/Debug/Program 0.pdb
+/Users/weasel/Downloads/Program 0/Program 0/bin/Debug/Program 0.exe.config
+/Users/weasel/Downloads/Program 0/Program 0/bin/Debug/Program 0.exe
+/Users/weasel/Downloads/Program 0/Program 0/bin/Debug/Program 0.pdb
+/Users/weasel/Downloads/Program 0/Program 0/obj/Debug/Program 0.csprojAssemblyReference.cache
+/Users/weasel/Downloads/Program 0/Program 0/obj/Debug/Program 0.csproj.CoreCompileInputs.cache
+/Users/weasel/Downloads/Program 0/Program 0/obj/Debug/Program 0.exe
+/Users/weasel/Downloads/Program 0/Program 0/obj/Debug/Program 0.pdb
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/bin/Debug/Program 0.exe.config
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/bin/Debug/Program 0.exe
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/bin/Debug/Program 0.pdb
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/obj/Debug/Program 0.csprojAssemblyReference.cache
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/obj/Debug/Program 0.csproj.CoreCompileInputs.cache
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/obj/Debug/Program 0.exe
+/Users/weasel/Desktop/U of L/CIS 200/Program 0/Program 0/obj/Debug/Program 0.pdb

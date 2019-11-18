@@ -1,0 +1,14 @@
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/bin/Debug/Program 0.exe.config
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/bin/Debug/Program 0.exe
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/bin/Debug/Program 0.pdb
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/obj/Debug/Program_1A.csprojAssemblyReference.cache
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/obj/Debug/Program_1A.csproj.CoreCompileInputs.cache
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/obj/Debug/Program 0.exe
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A/Program 0/obj/Debug/Program 0.pdb
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/bin/Debug/Program 0.exe.config
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/bin/Debug/Program 0.exe
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/bin/Debug/Program 0.pdb
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/obj/Debug/Program_1A.csprojAssemblyReference.cache
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/obj/Debug/Program_1A.csproj.CoreCompileInputs.cache
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/obj/Debug/Program 0.exe
+/Users/weasel/Desktop/U of L/CIS 200/Program 1A - Zip & OG/Program 1A/Program 0/obj/Debug/Program 0.pdb
