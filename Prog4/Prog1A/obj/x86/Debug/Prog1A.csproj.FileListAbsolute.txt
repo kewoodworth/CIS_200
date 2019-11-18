@@ -1,0 +1,49 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1A.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A-Corrected\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A-Corrected\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A-Corrected\Prog1A\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A-Corrected\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1A-Corrected\Prog1A\obj\x86\Debug\Prog1A.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1A.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1A.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1A.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1A\Prog1A\obj\x86\Debug\Prog1A.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1A\Prog1A\obj\x86\Debug\Prog1A.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+J:\Prog4\Prog1A\bin\Debug\Prog1.exe
+J:\Prog4\Prog1A\bin\Debug\Prog1.pdb
+J:\Prog4\Prog1A\obj\x86\Debug\Prog1A.csprojAssemblyReference.cache
+J:\Prog4\Prog1A\obj\x86\Debug\Prog1A.csproj.CoreCompileInputs.cache
+J:\Prog4\Prog1A\obj\x86\Debug\Prog1.exe
+J:\Prog4\Prog1A\obj\x86\Debug\Prog1.pdb
+J:\CIS 200\Prog4\Prog1A\obj\x86\Debug\Prog1A.csprojAssemblyReference.cache
+J:\CIS 200\Prog4\Prog1A\obj\x86\Debug\Prog1A.csproj.CoreCompileInputs.cache
+J:\CIS 200\Prog4\Prog1A\obj\x86\Debug\Prog1.exe
+J:\CIS 200\Prog4\Prog1A\obj\x86\Debug\Prog1.pdb
+J:\CIS 200\Prog4\Prog1A\bin\Debug\Prog1.exe
+J:\CIS 200\Prog4\Prog1A\bin\Debug\Prog1.pdb
+J:\CIS 200\Zips\Prog4\Prog4\Prog1A\bin\Debug\Prog1.exe
+J:\CIS 200\Zips\Prog4\Prog4\Prog1A\bin\Debug\Prog1.pdb
+J:\CIS 200\Zips\Prog4\Prog4\Prog1A\obj\x86\Debug\Prog1A.csprojAssemblyReference.cache
+J:\CIS 200\Zips\Prog4\Prog4\Prog1A\obj\x86\Debug\Prog1A.csproj.CoreCompileInputs.cache
+J:\CIS 200\Zips\Prog4\Prog4\Prog1A\obj\x86\Debug\Prog1.exe
+J:\CIS 200\Zips\Prog4\Prog4\Prog1A\obj\x86\Debug\Prog1.pdb
